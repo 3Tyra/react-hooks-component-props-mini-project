@@ -1,7 +1,7 @@
 import React from 'react';
 import Header from './Header';
 import About from './About';
-import ArticleList from './ArticleList';
+import ArticleList from './ArticleList.jsx';
 
 function App() {
   const blogName = "Tune In To Find Out!";
